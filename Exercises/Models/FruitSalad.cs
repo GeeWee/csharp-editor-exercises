@@ -1,4 +1,3 @@
-using Exercises.Models;
 
 namespace Exercises.Exercise4
 {

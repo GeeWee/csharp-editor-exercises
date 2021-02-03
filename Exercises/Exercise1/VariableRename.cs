@@ -1,6 +1,5 @@
 using System.Collections.Generic;
 using Exercises.Exercise4;
-using Exercises.Models;
 
 namespace Exercises.Exercise1
 {

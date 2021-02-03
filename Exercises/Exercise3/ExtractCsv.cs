@@ -11,21 +11,21 @@ namespace Exercises.Exercise3
         {
 
             // You need to take the data from the csv rows and put them into this dictionary!
-            var dictionary = new Dictionary<int, List<string>>()
-            {
-
-            };
 
             // Example
-
             /*
-            var dictionary = new Dictionary<int, List<string>>()
+            var dictionary = new Dictionary<int, List<string>>()E
             {
                 {1, new List<string>(){"hello", "world"}},
                 {2, new List<string>(){"goodbye", "world"}},
             };
             */
 
+            // Now you try!
+            var dictionary = new Dictionary<int, List<string>>()
+            {
+
+            };
 
         }
     }

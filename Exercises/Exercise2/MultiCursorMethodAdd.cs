@@ -7,8 +7,8 @@ namespace Exercises.Exercise2
     public class MultiCursorMethodAdd
     {
         /// <summary>
-        /// Oh no! all the fruits are named the wrong names!
-        /// Fix them, both in the constructor and the FruitSalad.AddX methods!
+        /// Oh no! We have to implement our own fruit salad.
+        /// Create a class, and give it some AddX() methods for each fruit.
         /// </summary>
         public void SecondExercise()
         {
